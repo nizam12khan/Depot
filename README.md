@@ -10,6 +10,10 @@ A Ruby on Rails e-commerce application demonstrating modern frontend features wi
 - **Shopping Cart:** Products can be added to a shopping cart.
 - **Dynamic Cart Updates:** The cart display and total bill are updated on the same page using Turbo Streams (part of Hotwire) when items are added.
 
+## Demo
+
+- https://nizam.neetorecord.com/watch/b4ca1a9aa6fc600e101a 
+
 ## Technologies Used
 
 - Ruby on Rails (v8.0.2)
